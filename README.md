@@ -92,7 +92,7 @@ python main.py --do_test --text_pretrained_model bert-base-uncased --fuse_model_
 
 ## Place To Find Full Files 完整代码下载处
 
-由于大小限制，GitHub的文件夹中不包含预训练模型与data，想要获得完整的文件请通过下面的网盘链接下载：
+由于大小限制，GitHub的文件夹中不包含预训练模型与data，想要获得完整的文件请通过实验报告中随附的网盘链接进行下载。
 
 
 
